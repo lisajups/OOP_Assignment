@@ -1,0 +1,134 @@
+Test
+BankHolder
+01/02/3000
+1
+t
+e
+5
+t
+t
+e
+s
+t
+##
+Current Account
+500
+00-00-00
+101
+0.0
+Default Bank
+1.2
+##
+Lisa
+Juckett
+05/04/2002
+2
+Lisa's House
+None
+11
+Bowling Green
+Cornwall
+Menheniot
+PL14 3RX
+UK
+##
+Savings
+250.0
+01-01-01
+123000
+0.0
+TSB
+1.2
+##
+Current Account
+500
+11-20-30
+10
+0.0
+Default Bank
+1.2
+##
+ISA
+Holder
+01/01/2000
+1
+ISA ADDRESS
+House
+2
+Street
+Area
+Town
+Posty
+USA
+##
+ISA
+500.0
+01-02-03
+123454
+0.0
+TSB
+1.2
+##
+Test
+Multiple
+01/01/1001
+1
+a
+v
+2
+e
+rt
+ytu
+jhjj
+dffdsf
+##
+Savings
+100.0
+01-01-01
+123456
+0.0
+TSB
+1.2
+##
+adsad
+sfgdf
+10/10/1010
+1
+sd
+dfg
+3
+fsgs
+sgdg
+sgd
+dsg
+sg
+##
+Current Account
+100.0
+01-01-01
+123456
+0.0
+TSB
+1.2
+##
+Shop
+Owner
+02/02/2022
+1
+Shop
+Morrisons
+1
+Shop Street
+Shopping District
+Consumerism Town
+AB12CD3
+UK
+##
+Current Account
+500.0
+01-01-21
+987654321
+0.0
+TSB
+1.2
+##

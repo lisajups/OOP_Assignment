@@ -1,0 +1,286 @@
+
+2
+Flour
+1.0
+kg
+15
+2
+15
+Food
+false
+1.1
+1.1
+2022-01-17
+2022-01-21
+2022-01-24
+##
+McDougalls
+08000327111
+##
+McDougalls Mega Mansion
+13
+Mayfair
+London
+E1 1LN
+United Kingdom
+##
+
+3
+Milk
+1.0
+litre
+7
+3
+20
+Food
+false
+0.85
+0.85
+2022-01-19
+2022-01-23
+2022-01-26
+##
+Trewithen Dairy
+01208 228700
+##
+Trewithen Dairy
+1
+Greymare Farm
+Lostwithiel
+PL22 0LW
+United Kingdom
+##
+
+4
+Pasta
+1.0
+kg
+10
+5
+25
+Food
+false
+0.85
+0.85
+2022-01-19
+2022-01-23
+2022-01-26
+##
+Napolina
+01519667573
+##
+Royal Liver Building
+6
+Pierhead
+Liverpool
+L3 1NX
+United Kingdom
+##
+
+5
+Tinned Tomatoes
+0.4
+kg
+10
+2
+20
+Food
+false
+0.75
+0.75
+2022-01-19
+2022-01-23
+2022-01-26
+##
+Napolina
+01519667573
+##
+Royal Liver Building
+6
+Pierhead
+Liverpool
+L3 1NX
+United Kingdom
+##
+
+6
+Chocolate
+0.2
+kg
+5
+2
+10
+Food
+true
+0.9
+1.08
+2022-01-19
+2022-01-23
+2022-01-26
+##
+Cadbury's
+0121 458 2000
+##
+Cadbury House
+1
+Uxbridge Business Park
+Uxbridge
+UB1 1UB
+United Kingdom
+##
+
+7
+Cutlery
+1.0
+kg
+5
+1
+7
+Cookware
+true
+1.2
+1.44
+2022-01-19
+2022-01-23
+2022-01-26
+##
+IKEA
+02036450000
+##
+Floor 7
+100
+Avebury Boulevard
+Milton Keynes
+MK9 1FH
+United Kingdom
+##
+
+8
+Kettle
+2.0
+kg
+2
+1
+5
+Electric
+true
+45.0
+54.0
+2022-01-19
+2022-01-23
+2022-01-26
+##
+De'Longhi
+0345 222 0458
+##
+De'Longhi Appliances
+47
+Via Lodovico Seitz
+Treviso
+31100
+Italy
+##
+
+10
+Game
+0.2
+kg
+3
+1
+5
+Electronic
+true
+54.99
+65.988
+2022-01-19
+2022-01-23
+2022-01-26
+##
+Nintendo
+0345 605 0247
+##
+Nintendo of Europe
+235
+Goldsteinstraße
+Frankfurt
+60528
+Germany
+##
+
+9
+CD
+0.2
+kg
+3
+1
+5
+Entertainment
+true
+5.99
+7.188
+2022-01-19
+2022-01-23
+2022-01-26
+##
+HMV
+0333 323 4754
+##
+Mermaid House
+1
+Puddle Dock
+Blackfriars
+EC4V 3DB
+United Kingdom
+##
+
+11
+Cheese
+0.7
+kg
+2
+1
+10
+Food
+true
+1.5
+1.7999999999999998
+2022-01-19
+2022-01-23
+2022-01-26
+##
+Trewithen Dairy
+01208 228700
+##
+Trewithen Dairy
+1
+Greymare Farm
+Lostwithiel
+PL22 0LW
+United Kingdom
+##
+
+1
+Bread
+0.5
+kg
+23
+1
+30
+Food
+false
+0.85
+0.85
+2022-01-19
+2022-01-23
+2022-02-06
+##
+Warburtons
+0800243684
+##
+Back o’ th’ Bank House
+1
+Hereford Street
+Bolton
+BL1 8HJ
+United Kingdom
+##
